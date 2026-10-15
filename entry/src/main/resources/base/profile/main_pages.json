@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/PlanEditPage",
+    "pages/ComparePage",
+    "pages/SimLabPage",
+    "pages/SolverPage",
+    "pages/DecisionPage",
+    "pages/SchedulePage",
+    "pages/ReportPage"
+  ]
+}
